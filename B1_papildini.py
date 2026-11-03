@@ -16,5 +16,3 @@ rakstitajs = csv.writer(f)
 rakstitajs.writerow(["Serviss", "Kļūdas"])
 for serviss, kluudas in skaits.items():
 rakstitajs.writerow([serviss, kluudas])
-
-print("Dati ierakstīti")
