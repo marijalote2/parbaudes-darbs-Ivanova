@@ -1,0 +1,10 @@
+J1
+
+Nolasītu žurnalfailu un apskatītu kuriem met ārā error.
+Katrai kļūdainajai rindai pieliktu laiku.
+Saskaitītu kļūdas pa katru stundu.
+Apreķinatu kopēj kļūdu skaitu un noteiktu kurā ir visvairāk.
+
+J2
+
+Praktiks ieguvums ir, ka dati ir jau apkopoti un skaitla veida (piem 200mb atmiņa), kas padara visu procesu vieglāku.
